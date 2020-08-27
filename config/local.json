@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "rumsan-sanduk",
+    "port": 3700,
+    "url": "http://localhost:3700",
+    "secret": "G4qzBc4nvv1x@ebi0rf^C%jy$zPdTk!A"
+  },
+  "services": {}
+}

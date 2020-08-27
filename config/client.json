@@ -1,0 +1,10 @@
+{
+  "debugMode": true,
+  "apiPath": "/api/v1",
+  "api": "http://localhost:3607/api/v1",
+  "web3": {
+    "networkId": 9670,
+    "httpProvider": "http://localhost:7545",
+    "webSocketProvider": "http://localhost:7545"
+  }
+}

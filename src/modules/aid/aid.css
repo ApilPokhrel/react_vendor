@@ -1,0 +1,27 @@
+.aid-list {
+  text-align: center !important;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aid-main {
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.form-item {
+  padding: 7px;
+}
+
+.form-field {
+  width: 100% !important;
+}
+
+.aid-list img {
+  height: 100px;
+  width: auto;
+}

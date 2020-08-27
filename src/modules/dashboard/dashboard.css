@@ -1,0 +1,11 @@
+.table-container {
+  margin-top: 50px;
+  padding: 0px 200px;
+}
+
+@media only screen and (max-width: 880px) {
+  .table-container {
+    margin-top: 45px;
+    padding: 0px 5px;
+  }
+}
